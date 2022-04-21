@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Klas Lindgren
+- 👀 I’m interested in electric power engineering, python, matlab and more.
+- 🌱 I’m currently learning machine learning and python.
