@@ -10,9 +10,11 @@ I've been learning to code in multiple languages for more than 5 years. The proj
 *   ✉️  You can contact me at [klslndgrn@gmail.com](mailto:klslndgrn@gmail.com)
 *   🚀  I'm currently working on [multiple different projects at KTH.](http://github.com/klslndgrn/klslndgrn-public)
 *   🧠  I'm learning how to combine electric power engineering with machine learning.
-*   🤝  I'm open to collaborating on anything interesting, and I find most things interesting!### Skills<p align="left">
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                    </p>
+*   🤝  I'm open to collaborating on anything interesting, and I find most things interesting!
+
+### Skills
+
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></p>
                     
 ### Socials
                   
