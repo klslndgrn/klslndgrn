@@ -16,7 +16,7 @@ I've been learning to code in multiple languages for more than 5 years. The proj
 
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://designlogovector.com/wp-content/uploads/2022/01/matlab-logo-svg-768x768.jpg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
 </p>
                     
 ### Socials
