@@ -17,7 +17,10 @@ I've been learning to code in multiple languages for more than 5 years. The proj
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="36" height="36" alt="Lua" /></a>
 </p>
+
+
                     
 ### Socials
                   
